@@ -1,6 +1,6 @@
-This repository contains Java programs and projects as part of the Object-Oriented Programming Lab coursework. It covers a wide range of fundamental and advanced OOP concepts, with programs organized into 8 experiments.
+## This repository contains Java programs and projects as part of the Object-Oriented Programming Lab coursework. It covers a wide range of fundamental and advanced OOP concepts, with programs organized into 8 experiments.
 
-Table of Contents
+# Table of Contents
 Experiment 1: Basic Arithmetic and Number Manipulations
 Experiment 2: Class Design and Object Manipulations
 Experiment 3: Inheritance and Polymorphism
